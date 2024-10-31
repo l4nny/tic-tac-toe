@@ -1,6 +1,5 @@
 #include<iostream>
 #include<vector>
-#include<stack>
 using namespace std;
 #define MAX_ELEMENTS 100005
 int n = 0;
@@ -69,7 +68,6 @@ int main() {
 		}
 	}
 	
-}
 /*
 5 7
 1 1 2
